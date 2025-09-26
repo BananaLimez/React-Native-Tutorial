@@ -45,6 +45,7 @@ npx expo start
 
 - Scan the QR code with the **Expo Go** app (available on App Store / Play Store).  
 - Or run in an **Android Emulator** (Android Studio) / **iOS Simulator** (Xcode).
+- In Android Simulator show window frame around device and adjust the phone size
 
 ---
 
